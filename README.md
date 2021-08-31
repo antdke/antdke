@@ -6,8 +6,9 @@ I’m an entrepreneur and creator at heart: I’ve built [video chat](https://ch
 
 ### 📍 Now:
 
-- Teaching myself to build crypto apps (Ethereum, Solana, etc).
-- Starting a crypto hacking group chat → [Come join :)](https://discord.gg/Wd8u7SDe)
+- 🌱 Teaching myself to build crypto apps (Ethereum, Solana, etc).
+- 💬 Starting a crypto hacking group chat → [Come join :)](https://discord.gg/Wd8u7SDe)
+- ⚡️ Looking to help with crypto projects! Email me at [anthonydike@nyu.edu](mailto:anthonydike@nyu.edu)
 
 
 
