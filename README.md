@@ -10,7 +10,7 @@ I’m an entrepreneur and creator at heart: I’ve built [video chat](https://ch
 - 💬 Starting a crypto hacking group chat → [Come join :)](https://discord.gg/Wd8u7SDe)
 - ⚡️ Looking to help with crypto projects! Email me at [anthonydike@nyu.edu](mailto:anthonydike@nyu.edu)
 
-### Fun facts about me:
+### 😊 Fun facts about me:
 
 - 📏 I'm 6 feet & 4 inches tall (193 cm)
 - 🍅 I'll eat all foods, _except_ raw tomatoes 🤮
