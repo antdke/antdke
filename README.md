@@ -7,7 +7,7 @@ I’m an entrepreneur and creator at heart: I’ve built [video chat](https://ch
 ### 📍 Now:
 
 - 🌱 Teaching myself to build dApps on Ethereum.
-- 💬 Starting a crypto hacking group chat → [Come join :)](https://discord.gg/Wd8u7SDe)
+- 💬 Starting a crypto hacking group chat → [Come join :)](https://discord.gg/NCuhna6GQt)
 - ⚡️ Looking to help with crypto projects! Email me at [anthonydike@nyu.edu](mailto:anthonydike@nyu.edu)
 
 ### 😊 Fun facts about me:
