@@ -2,7 +2,7 @@
 
 ### ⏱ 10 second bio:
 
-I’m an entrepreneur and creator —I [sold my first business](https://antdke.co/posts/sold) at 21. I’ve built [video chat](https://chatparty.co) and [live streaming](https://twitter.com/hinotehq) apps (that have [been featured in multiple publications](https://thehustle.co/04212020-silicon-valley-clubhouse/)). I started [a newsletter](https://theproductperson.com) called “The Product Person” to share insights on product and design that currently has over 5,000 subscribers. And for the last 12 months, I've been doing product at a start-up, [Blissfully.com](https://blissfully.com).
+I’m an entrepreneur and creator. I [sold my first business](https://antdke.co/posts/sold) at 21. I’ve built [video chat](https://chatparty.co) and [live streaming](https://twitter.com/hinotehq) apps (that have [been featured in multiple publications](https://thehustle.co/04212020-silicon-valley-clubhouse/)). I started [a newsletter](https://theproductperson.com) called “The Product Person” to share insights on product and design that currently has over 5,000 subscribers. And for the last 12 months, I've been doing product at a start-up, [Blissfully.com](https://blissfully.com).
 
 ### 📍 Now:
 
