@@ -2,7 +2,7 @@
 
 ### ⏱ Quick bio:
 
-I’m an entrepreneur and creator. I [sold my first business](https://antdke.co/posts/sold) at 21. I’ve built [video chat](https://chatparty.co) and [live streaming](https://twitter.com/hinotehq) apps (that have [been featured in multiple publications](https://thehustle.co/04212020-silicon-valley-clubhouse/)). I started [a newsletter](https://theproductperson.com) business called “The Product Person” to share insights on product and design that grew to over 5,000 subscribers when I sold it. It's been read by product teams at companies like Dropbox, Nike, and Figma. My day job is as a Product Manager. Most recently, I was at [Extra Card](https://extra.app).
+I’m an entrepreneur and creator. I [sold my first business](https://antdke.co/posts/sold) at 21. I’ve built [video chat](https://chatparty.co) and [live streaming](https://twitter.com/hinotehq) apps (that have [been featured in multiple publications](https://thehustle.co/04212020-silicon-valley-clubhouse/)). I started [a newsletter](https://www.producthunt.com/products/the-product-person) business called “The Product Person” to share insights on product and design that grew to over 5,000 subscribers when I sold it. It's been read by product teams at companies like Dropbox, Nike, and Figma. My day job is as a Product Manager. Most recently, I was at [Extra Card](https://extra.app).
 
 ### 📍 Now:
 - 💻 I'm coding again, check out my latest green dots below! (Currently, relearning Rails)
