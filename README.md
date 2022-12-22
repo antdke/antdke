@@ -1,14 +1,13 @@
-### Hiiiii 👋
+### Yo! 👋
 
-### ⏱ 10 second bio:
+### ⏱ Quick bio:
 
-I’m an entrepreneur and creator. I [sold my first business](https://antdke.co/posts/sold) at 21. I’ve built [video chat](https://chatparty.co) and [live streaming](https://twitter.com/hinotehq) apps (that have [been featured in multiple publications](https://thehustle.co/04212020-silicon-valley-clubhouse/)). I started [a newsletter](https://theproductperson.com) called “The Product Person” to share insights on product and design that currently has over 5,000 subscribers and is read by product teams at companies like Dropbox, Nike, and Figma. And for the last 12 months, I've been doing product at a start-up, [Blissfully.com](https://blissfully.com).
+I’m an entrepreneur and creator. I [sold my first business](https://antdke.co/posts/sold) at 21. I’ve built [video chat](https://chatparty.co) and [live streaming](https://twitter.com/hinotehq) apps (that have [been featured in multiple publications](https://thehustle.co/04212020-silicon-valley-clubhouse/)). I started [a newsletter](https://theproductperson.com) business called “The Product Person” to share insights on product and design that grew to over 5,000 subscribers when I sold it. It's been read by product teams at companies like Dropbox, Nike, and Figma. My day job is as a Product Manager. Most recently, I was at [Extra Card](https://extra.app).
 
 ### 📍 Now:
-
-- 🌱 Teaching myself to build dApps on Ethereum.
-- 💬 Starting a crypto hacking group chat → [Come join :)](https://discord.gg/NCuhna6GQt)
-- ⚡️ Looking to help with crypto projects! Email me at [anthonydike@nyu.edu](mailto:anthonydike@nyu.edu)
+- 💻 I'm coding again, check out my latest green dots below! (Currently, relearning Rails)
+- ⚡️ Looking for work! Product, Eng, whatever. Email me at [anthonydike@nyu.edu](mailto:anthonydike@nyu.edu)
+- 🛠 Brainstorming ideas for my next biz...I'm thinking much bigger this time...
 
 ### 😊 Fun facts about me:
 
