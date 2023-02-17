@@ -4,14 +4,12 @@
 
 I’m an entrepreneur and creator. I [sold my first business](https://antdke.co/posts/sold) at 21. 
 
-I’ve built [video chat](https://chatparty.co) and [live streaming](https://twitter.com/hinotehq) apps (that have [been featured in multiple publications](https://thehustle.co/04212020-silicon-valley-clubhouse/)). I started [a newsletter](https://www.producthunt.com/products/the-product-person) business called “The Product Person” to share insights on product and design that grew to over 5,000 subscribers when I sold it. It's been read by product teams at companies like Dropbox, Nike, and Figma. 
+I’ve built [AI](https://dontloseyour.cool), [video chat](https://chatparty.co) and [live streaming](https://twitter.com/hinotehq) apps (that have [been featured in multiple publications](https://thehustle.co/04212020-silicon-valley-clubhouse/)). I started [a newsletter](https://www.producthunt.com/products/the-product-person) business called “The Product Person” to share insights on product and design that grew to over 5,000 paying and free subscribers when I sold it. It's been read by product teams at companies like Dropbox, Nike, and Figma. 
 
-My day job is as a Product Manager. Most recently, I was at [Extra Card](https://extra.app)—a fintech startup backed by a16z.
+My last 2 roles were in Product. Most recently, at a16z-backed Series B fintech startup, [Extra Card](https://extra.app). Before that, I did product work at a B2B SaaS startup, [Blissfully.com, (Now, Vendr)](https://vendr.com).
 
 ### 📍 Now:
-- 💻 I'm coding again, check out my latest green dots below! (Currently, relearning Rails)
-- ⚡️ Looking for work! Product, Eng, whatever. Email me at [anthonydike@nyu.edu](mailto:anthonydike@nyu.edu)
-- 🛠 Brainstorming ideas for my next biz...I'm thinking much bigger this time...
+- 💻 Shipping AI projects at the speed of light, about 1 every 1-2 weeks! (Check out all my green dots below).
 
 ### 😊 Fun facts about me:
 
